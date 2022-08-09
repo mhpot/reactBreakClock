@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/reactBreakClock/static/css/main.a97eab74.css",
+    "main.js": "/reactBreakClock/static/js/main.8b601a34.js",
+    "static/js/787.adc0dfe1.chunk.js": "/reactBreakClock/static/js/787.adc0dfe1.chunk.js",
+    "index.html": "/reactBreakClock/index.html",
+    "main.a97eab74.css.map": "/reactBreakClock/static/css/main.a97eab74.css.map",
+    "main.8b601a34.js.map": "/reactBreakClock/static/js/main.8b601a34.js.map",
+    "787.adc0dfe1.chunk.js.map": "/reactBreakClock/static/js/787.adc0dfe1.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.a97eab74.css",
+    "static/js/main.8b601a34.js"
+  ]
+}
